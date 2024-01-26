@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Basic.Oops.T28
+/Encapsulation/Encapsulation/obj
+/Interface/obj
+/Class/obj
+/.vs/Basic.Oops/v17
+/Inheritance/bin/Debug/net8.0
+/Inheritance/obj
