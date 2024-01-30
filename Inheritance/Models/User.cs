@@ -36,10 +36,6 @@ public class User
     }
 }
 
-public enum UserType
-{
-    Student,
-    Teacher
-}
+
 
 // One Class parent another will Child.
