@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace Inheritance.Models
+﻿namespace Inheritance.Models
 {
     public class Teacher : User
     {
@@ -11,10 +9,12 @@ namespace Inheritance.Models
 
         public Teacher(string name, string city, int id, string subject)
         {
+            // variable inherited from parent class.
             Name = name;
             City = city;
-            Id = id;
             UserType = UserType.Teacher;
+
+            Id = id;
             Subject = subject;
         }
 

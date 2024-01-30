@@ -9,3 +9,6 @@
 /.vs/Basic.Oops/v17
 /Inheritance/bin/Debug/net8.0
 /Inheritance/obj
+/.vs
+/Static/bin/Debug/net8.0
+/Static/obj

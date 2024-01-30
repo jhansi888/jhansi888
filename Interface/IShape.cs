@@ -14,6 +14,7 @@ public class Rectangle : IShape
     {
         
     }
+
     public void Display(IShape shape)
     {
         Console.WriteLine(Name);

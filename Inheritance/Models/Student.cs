@@ -6,11 +6,14 @@
         public Student() {
         }
 
+        // parameterise constructor
         public Student(string name, string city, int rollNumber)
         {
+            // variable inherited from parent class.
             Name = name;
             City = city;
             UserType = UserType.Student;
+
             RollNumber = rollNumber;
         }
 
